@@ -1,4 +1,4 @@
-# X-Ray Image Inpainting and Classification using VGG19
+# X-Ray Image Inpainting
 
 ## Project Overview
 This project focuses on classifying chest X-ray images into two categories: Normal and Pneumonia. It leverages a pre-trained VGG19 convolutional neural network model with custom layers added for classification. The model is trained using TensorFlow and Keras, with data augmentation applied to improve generalization. Additionally, Grad-CAM visualization is used to interpret the model's predictions.
